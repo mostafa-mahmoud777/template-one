@@ -1,4 +1,4 @@
-# template-one
+# Template-One
 HTML&amp;CSS Template One
 
-# project notes
+
